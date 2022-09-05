@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Here are my the 1st GIT file.conf My 2nd commit
+=======
+Here are my the firstst GIT file.My 2nd commit
+>>>>>>> db8b8c7a00d2979e03bd1b0ee57996e256dc6b44
