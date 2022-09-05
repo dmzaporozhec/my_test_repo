@@ -1,2 +1,2 @@
-This is my the 1st GIT file.
+here are my the first GIT file.
 My 2nd commit
