@@ -1,1 +1,1 @@
-Here are my the 1st GIT file.My 2nd commit
+Here are my the 1st GIT file.conf My 2nd commit
